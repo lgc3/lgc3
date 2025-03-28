@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/lgc3/Vulnerability-Management-Program)**
+- **[DISA STIG Automation (Compliance and Hardening)](https://github.com/lgc3/lgc3/tree/main/STIGS)**
 
 <!--
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
@@ -14,7 +15,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/lgc3/threat-hunting-scenario-tor)**
-- **[DISA STIG Automation (Compliance and Hardening)](https://github.com/lgc3/lgc3/tree/main/STIGS)**
 <hr/>
 
 ## 🤳 Connect With Me
