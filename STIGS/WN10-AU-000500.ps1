@@ -1,5 +1,8 @@
 <#
 .SYNOPSIS
+    Vulnerability Discussion
+    Inadequate log size will cause the log to fill up quickly. This may prevent audit events from being recorded properly and require frequent attention by administrative personnel.
+    
     This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
 
 .NOTES
