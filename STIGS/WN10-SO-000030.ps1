@@ -46,7 +46,7 @@ if (-not (Test-Path $registryPath)) {
     New-Item -Path $registryPath -Force
 }
 
-#Disable Inventory Collector
+#Enable Audit policy 
 Set-ItemProperty -Path $registryPath -Name $valueName -Value $valueData -Type DWord
 
 # Verify
