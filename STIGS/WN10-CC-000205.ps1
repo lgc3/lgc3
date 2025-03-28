@@ -1,6 +1,17 @@
 <#
 .SYNOPSIS
-    This PowerShell script configured the "AllowTelemetry" to the value 0, which is the lowerst possible data collection.
+
+Vulnerability Discussion
+    Some features may communicate with the vendor, sending system information or downloading data or components for the feature. 
+    Limiting this capability will prevent potentially sensitive information from being sent outside the enterprise. 
+    The "Security" option for Telemetry configures the lowest amount of data, effectively none outside of the 
+    Malicious Software Removal Tool (MSRT), Defender, and telemetry client settings. "Basic" sends basic diagnostic and usage 
+    data and may be required to support some Microsoft services. "Enhanced" includes additional information on how Windows 
+    and apps are used and advanced reliability data. Windows Analytics can use a "limited enhanced" level to provide 
+    information such as health data for devices. This requires the configuration of an additional setting available 
+    with v1709 and later of Windows 10.
+
+This PowerShell script configured the "AllowTelemetry" to the value 0, which is the lowerst possible data collection.
 
 .NOTES
     Author          : Lauren Coste
