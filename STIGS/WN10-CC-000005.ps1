@@ -1,5 +1,8 @@
 <#
 .SYNOPSIS
+    Vulnerability Discussion
+    Enabling camera access from the lock screen could allow for unauthorized use. Requiring logon will ensure the device is only used by authorized personnel.
+    
     This PowerShell script ensures that the camera is only accessable after logon.
 
 .NOTES
