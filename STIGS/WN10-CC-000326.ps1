@@ -39,7 +39,7 @@ if (-not (Test-Path $registryPath)) {
     New-Item -Path $registryPath -Force
 }
 
-#Prioritize ECC Curves
+#Enable powershell script logs
 Set-ItemProperty -Path $registryPath -Name $valueName -Value $valueData -Type DWord
 
 # Verify
