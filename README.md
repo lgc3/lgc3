@@ -17,6 +17,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/lgc3/threat-hunting-scenario-tor)**
 <hr/>
 
+## Certifications:
+<div>
+<a href="https://www.credly.com/badges/927c7b62-c425-4644-aa02-3dfc1f96177d">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/b235e4bc-c4c4-45d0-83a0-aab2e15b520c">
+  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
 ## 🤳 Connect With Me
 
 
