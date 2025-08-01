@@ -2,7 +2,7 @@
 
 I'm passionate about IT infrastructure, networking, and cybersecurity, with a strong focus on solving real-world technical challenges. Whether it's troubleshooting network issues, optimizing system performance, or implementing security best practices, I enjoy hands-on work that keeps systems running securely and efficiently. I'm currently looking for a great team to join, and I would love to hear from you.
 ## 💻 IT Toolkit
-- **[Active Directory/Windows Server]()**
+- **[Active Directory/Windows Server](https://github.com/lgc3/Active-Directory-Windows-Server/tree/main)**
 
 ## ⚠️ Vulnerability Management Projects
 
