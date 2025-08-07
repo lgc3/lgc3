@@ -4,6 +4,13 @@ I'm passionate about IT infrastructure, networking, and cybersecurity, with a st
 ## 💻 IT Toolkit
 - **[Active Directory/Windows Server](https://github.com/lgc3/Active-Directory-Windows-Server/tree/main)**
 
+## 📡 Networking
+
+- **[Local Area Network(LAN) Setup Lab](https://github.com/lgc3/Lan-Setup-Cisco-Home-lab)**
+- **[DHCP Server setup with Inter VLAN Rounting Lab](https://github.com/lgc3/DHCP-Server-setup-with-Inter-VLAN-Rounting)**
+- **[VLAN Configuration Lab](https://github.com/lgc3/Basic-VLAN-Configuration-Home-Lab)**
+- **[Switch Console-Connection Configuration](https://github.com/lgc3/Switch-Console-Connection-Configuration)**
+  
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/lgc3/Vulnerability-Management-Program)**
